@@ -1,0 +1,167 @@
+about.this.file: >-
+  Strings in different locales are auto-generated and maintained by
+  locale_strings.js.
+charity.donated: Donated
+charity.more-info: More About IoTeX Charity Program
+charity.question: How did I know IoTeX? Why I am interested in it?
+charity.share-message: Share Your Act of Kindness!
+charity.to: To
+charity.tweet.summary.description: >-
+  We appreciate your Big Heart! Besides the one-time fixed 16,000 points
+  thank-you gift, now we put your good deed on IoTeX website!
+charity.tweet.summary.image: >-
+  https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
+charity.tweet.summary.title: You are on the IoTeX Honor Board!
+claim.btn: CLAIM YOUR POINTS
+contact.btn: 문의처
+contact.desc: IoTeX 전문가들은 언제든지 이메일(support@iotex.io)을 통해 귀하의 질문에 답변해 드리겠습니다
+contact.title: 언제든지 연락하십시오
+ethFoundation: Ethereum Foundation
+hall-of-fame.badge-section.title: IoTeX 1st Charity Program — ETH Foundation
+hall-of-fame.badge-section.unicorn.desc: >
+  Ethereum has revolutionized the blockchain world for the past four years and
+  made “blockchain” the newest buzzword. As an industry leader, Ethereum has
+  provided <a target="_blank"
+  href="https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/">grants</a>
+  to fuel researchers and developers to work on various forefronts to support
+  the entire blockchain ecosystem. IoTeX strongly believes that we can move
+  forward the entire industry through rigorous research and collaboration. We
+  need talents and the brightest minds to make a splash in the world. A small
+  yet powerful way for you to help our cause is to donate ETH to the Ethereum
+  Foundation to help fund blockchain research.
+
+
+  For participation detail, please join official <a target="_blank"
+  href="https://t.me/IoTeXGroup">Telegram Group</a> and stay tuned to the pinned
+  messages.
+
+
+  Check more detail at <a target="_blank"
+  href="https://medium.com/@iotex/iotex-1st-charity-program-update-d1959e67e756">IoTeX
+  1st Charity Program Update</a>.
+hall-of-fame.search.label: Search by your hashid or Preferred Display Name
+hall-of-fame.thank-you.message: >
+  Crowdsourcing as a way to fund a specific cause for a charity is not new, but
+  IoTeX is doing it via “smart contracts” and redirecting the cryptocurrency
+  hype to charitable causes. In the next few months, under its Community Reward
+  Program, IoTeX will continue selecting a few charity programs that align with
+  IoTeX’s mission of “Connecting the Physical World, Block by Block” as part of
+  IoTeX’s Community Reward Program.
+
+
+  IoTeX believes in growing together with the community and connecting the
+  physical world block by block. It’s a very ambitious goal but it can be
+  achieved with a strong team and supportive community. Together with the
+  community to push the frontier for the development of the blockchain
+  ecosystem, IoTeX truly hopes that the community can understand the original
+  intention and help promote the cause.
+hall-of-fame.title: IoTeX Charity
+home.about.inno.0.desc.keep: '즉각적인 최종성 및 짧은 지연 시간으로 수백만 개의 노드를 지원 친환경적, IoT를 위해 설계'
+home.about.inno.0.title.keep: 빠른 합의
+home.about.inno.1.desc.keep: >-
+  플라즈마(Plasma)와 마찬가지로, 루트 체인의 상태를 빼내어 프라이버시, 확장성 , 상호운용성을 더욱 강화; 획기적인 교차 체인 기법을
+  적용한 가치 및 데이터의 전송
+home.about.inno.1.title.keep: 블록체인 안의 블록체인
+home.about.inno.2.desc.keep: 경량 스텔스 주소 및 일정 크기 링 서명 등과 같은 혁신적인 암호화 기법을 통해 프라이버시 극대화
+home.about.inno.2.title.keep: 내장형 프라이버시 보존 기법
+home.about.inno.3.desc.keep: 'IoT를 위한 탈중앙화 자율 조직, 로봇 세계에서는 코드가 곧 법칙입니다'
+home.about.inno.3.title.keep: 자율 기기 조정
+home.about.sol.desc1: >-
+  사물인터넷(IoT)은 빠른 진화에도 불구하고 낮은 확장성, 높은 운영비, 프라이버시 염려, 기능적 가치의 부족 등의 문제 때문에
+  대중화되기까지는 아직 갈 길이 멀고 새로운 사용자를 생태계로 끌어들일 만 한 "킬러 애플리케이션"이 부족합니다.
+home.about.sol.desc2: >-
+  IoTeX는 사물 인터넷 공간에 토큰 이코노미(token economy)를 도입하여 이러한 문제를 해결하고 있습니다. 저희는 암호화폐 장려와
+  커뮤니티의 노력이 IoT 공간의 혁신을 이끄는 두 가지 핵심 원동력이라고 굳게 믿고 있기 때문이죠. 요컨대 IoTeX는 새로운 IoT
+  애플리케이션과 생태계를 위한 강력한 확장성, 프라이버시, 격리성, 개발 가능성을 갖춘 차세대 IoT 지향적 블록체인 플랫폼입니다.
+home.decentralized-protocol: 사물 인터넷을 위한 분산형 네트워크
+home.dustin.desc.keep: >-
+  USC 데이터 보안 박사. Intel 스탭 소프트웨어 엔지니어. 분산형 시스템, 콘텐츠 보호, 하드웨어 동영상 가속, 네트워크 동영상
+  스트리밍, 그래픽 드라이버 분야에서 12년의 경력 보유. 열광적인 암호화 및 블록체인 지지자.
+home.dustin.name.keep: Dustin Xie
+home.dustin.title.keep: 블록체인 엔지니어
+home.fan.desc.keep: >-
+  이전에 Sequoia Capital China 창립 파트너 역임, DFJ ePlanet Ventures 중국 영업 이사. 포브스에서 매년
+  발표하는 중국의 마이다스 리스트에서 최고의 벤처 투자가 중 한 명으로 선정.
+home.fan.name.keep: Fan Zhang
+home.fan.title.keep: null
+home.guang.desc.keep: >-
+  IEEE 석학회원. 캐나다 워털루 대학교 교수. 암호학 및 경량 암호화, 애드혹 네트워크 및 전파 식별(RFID) 보안 분야에서 최고의
+  과학자.
+home.guang.name.keep: Guang Gong
+home.guang.title.keep: null
+home.jack.desc.keep: >-
+  HCM Capital, Foxconn Technology Group의 창립 전무 이사, Chained Finance Ltd. 공동 창립자 및
+  상무 이사. FnConn 창립자 및 상무 이사, Abra 이사.
+home.jack.name.keep: Jack Lee
+home.jack.title.keep: null
+home.jing.desc.keep: >-
+  첨단 기술에 주력하는 Sparkland Capital의 창립 파트너. 블록체인, 보안, IoT에서 40건 이상의 투자와 혁신을 주도. 수많은
+  기업에서 이사직 역임. 신규 업체, 투자, 생태계 조성에서 광범위한 경력 보유.
+home.jing.name.keep: Jing Sun
+home.jing.title.keep: 공동 창립자
+home.larry.desc.keep: >-
+  Management consultant at Oliver Wyman, specialized in digital operations. Dual
+  B.S. in Finance & Economics, minor in Visual Arts & Design from MIT.
+  Blockchain and IoT enthusiast.
+home.larry.name.keep: Larry Pang
+home.larry.title.keep: Growth & Community
+home.monika.desc.keep: '사이버 보안, 개인정보 보호, 네트워킹 및 신흥 기술 분야에서 깊이 있는 전문지식을 갖춘 기술 통신 전문가.'
+home.monika.name.keep: Monika Hathaway
+home.monika.title.keep: 통신
+home.paddy.desc.keep: >-
+  Microsoft 책임 소프트웨어 엔지니어이며 분산형 시스템을 전문으로 합니다. 공개 소스 프로젝트에 활동적인 기여를 하고 있습니다. 예일
+  대학교 컴퓨터 과학 석사.
+home.paddy.name.keep: Paddy Kan
+home.paddy.title.keep: 분산형 시스템
+home.powered-by: 프라이버시 중심의 블록체인에 의해 작동
+home.qevan.desc.keep: >-
+  싱가포르 국립대학교 기계 학습 및 컴퓨터 비전 박사. Facebook 엔지니어링 관리자 및 연구가. 그로스 해커. 신규 업체 투자가 및
+  자문위원. 20건 이상의 간행물/특허.
+home.qevan.name.keep: Qevan Guo
+home.qevan.title.keep: 공동 창립자
+home.raullen.desc.keep: >-
+  워털루 대학교 암호학 박사 및 연구가. Uber의 암호 R&D 책임자, Google 보안 엔지니어. 암호화 및 블록체인 분야에서 8년 이상의
+  경력 보유.
+home.raullen.name.keep: Raullen Chai
+home.raullen.title.keep: 공동 창립자
+home.section.advisors: IoTeX.Advisors
+home.section.arch: IoTeX.Architecture
+home.section.innovations: IoTeX.Innovations
+home.section.investors: IoTeX.Investors
+home.section.partners: IoTeX.StrategicPartners
+home.section.roadmap: IoTeX.Roadmap
+home.section.team: IoTeX.Team
+home.section.teamfrom: IoTeX.Team.Background
+home.section.useceses: IoTeX.UseCases
+home.slogan: 블록 단위로 실제 세상을 연결합니다
+home.xinxin.desc.keep: >-
+  워털루 대학교 암호학 박사. Bosch Research 수석 기술 연구원. 정보 보안 및 암호 분야의 연구 및 업계에서 14년의 경력 보유.
+  40건 이상의 간행물/특허.
+home.xinxin.name.keep: Xinxin Fan
+home.xinxin.title.keep: 암호화 책임자.
+home.zhefeng.desc.keep: >-
+  Master in Computer Science at University of California San Diego and Bachelor
+  in Mathematics and Computer Science at University of Wisconsin-Madison.
+  Blockchain technology, machine learning, and Internet of Things enthusiast.
+home.zhefeng.name.keep: Zhefeng Li
+home.zhefeng.title.keep: Blockchain Engineer
+stonevan.twitter: >-
+  I just got 100 free points from IoTeX by celebrating their first Testnet
+  Preview release. @iotex_io Come and get yours!
+subscribe.btn: 구독
+subscribe.desc: 당사의 최근 진척상황 및 이벤트를 알아보십시오.
+subscribe.title: 항상 최신 정보를 받으십시오
+testnet-preview.home-title: Testnet Preview (StoneVan) will be released on
+testnet-preview.released-event-title: Our Testnet Preview Has Been Released!
+testnet-preview.released-title: Testnet Preview Has Been Released On
+testnet.preview.points.claimed: >-
+  You have claimed your points.  Please check with https://t.me/IoTeXBountyBot
+  to see your points. If you don't receive your points, please DM admins on our
+  telegram group with the screenshot of this page.
+testnet.preview.points.notclaimed: There was a problem when you claimed your points.
+topbar.blog: 블로그
+topbar.careers: 인재채용
+topbar.charity: 자선
+topbar.faq: FAQ
+topbar.home: 홈
+topbar.white-paper: 백서
