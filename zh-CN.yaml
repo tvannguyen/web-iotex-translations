@@ -1,187 +1,153 @@
 about.this.file: >-
   Strings in different locales are auto-generated and maintained by
   locale_strings.js.
-charity.donated: Donated
-charity.more-info: More About IoTeX Charity Program
-charity.question: How did I know IoTeX? Why I am interested in it?
-charity.share-message: Share Your Act of Kindness!
-charity.to: To
+charity.donated: 捐赠了
+charity.more-info: 了解IoTeX慈善活动更多信息
+charity.question: 我是如何知道IoTeX的？为什么我支持这个项目？
+charity.share-message: 将你的善举分享给更多人！
+charity.to: 向
 charity.tweet.summary.description: >-
-  We appreciate your Big Heart! Besides the one-time fixed 16,000 points
-  thank-you gift, now we put your good deed on IoTeX website!
+  感谢你为区块链行业做出的贡献！除了一次性发放16，000积分作为谢礼之外，我们还将在IoTeX官放网站上公示你的善举！
 charity.tweet.summary.image: >-
   https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
-charity.tweet.summary.title: You are on the IoTeX Honor Board!
-claim.btn: CLAIM YOUR POINTS
-contact.btn: CONTACT US
-contact.desc: IoTeX experts are ready to answer your questions via support@iotex.io
-contact.title: STAY IN TOUCH
-ethFoundation: Ethereum Foundation
-hall-of-fame.badge-section.title: IoTeX 1st Charity Program — ETH Foundation
+charity.tweet.summary.title: 你的善举已经公示在IoTeX荣誉墙上！
+claim.btn: 兑换你的积分
+contact.btn: 联系我们
+contact.desc: 如有任何问题，请发邮件至support@iotex.io，IoTeX专家团队将为您解答
+contact.title: 与我们保持联系
+ethFoundation: 以太坊基金会
+hall-of-fame.badge-section.title: IoTeX首次慈善活动 - 以太坊基金会
 hall-of-fame.badge-section.unicorn.desc: >
-  Ethereum has revolutionized the blockchain world for the past four years and
-  made “blockchain” the newest buzzword. As an industry leader, Ethereum has
-  provided <a target="_blank"
-  href="https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/">grants</a>
-  to fuel researchers and developers to work on various forefronts to support
-  the entire blockchain ecosystem. IoTeX strongly believes that we can move
-  forward the entire industry through rigorous research and collaboration. We
-  need talents and the brightest minds to make a splash in the world. A small
-  yet powerful way for you to help our cause is to donate ETH to the Ethereum
-  Foundation to help fund blockchain research.
+  在过去的四年，以太坊彻底颠覆了区块链世界，并使得“区块链”成为了炙手可热的流行术语。
+  作为行业领军人，以太坊为研究人员和开发人员提供<a target="_blank"
+  href="https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/">资助</a>，进行区块链前沿技术革新，从而推动整个区块链生态系统的发展与壮大。
+  IoTeX坚信，严谨的研究和协作对推动整个行业的发展起到及其重要的作用。我们需要更多顶尖和杰出人才掀起全球区块链的热潮。
+  通过捐赠ETH给以太坊基金会这一微小但意义深远的方式来帮助我们的事业，促进区块链研究和发展。
+  你可以通过简单而又意义深远的方式 - 向以太坊基金会捐赠ETH，来帮助我们实现这个目标，从而促进区块链行业的研究和发展。
 
 
-  For participation detail, please join official <a target="_blank"
-  href="https://t.me/IoTeXGroup">Telegram Group</a> and stay tuned to the pinned
-  messages.
+  有关参与细节，请加入<a target="_blank"
+  href="https://t.me/IoTeXGroup">IoTeX官方电报群组</a> 并随时留意置顶消息。
 
 
-  Check more detail at <a target="_blank"
+  更多详情请参见 <a target="_blank"
   href="https://medium.com/@iotex/iotex-1st-charity-program-update-d1959e67e756">IoTeX
-  1st Charity Program Update</a>.
-hall-of-fame.search.label: Search by your hashid or Preferred Display Name
+  首次慈善活动总结报告</a>.
+hall-of-fame.search.label: 请输入你的hashid或展示名称进行查询
 hall-of-fame.thank-you.message: >
-  Crowdsourcing as a way to fund a specific cause for a charity is not new, but
-  IoTeX is doing it via “smart contracts” and redirecting the cryptocurrency
-  hype to charitable causes. In the next few months, under its Community Reward
-  Program, IoTeX will continue selecting a few charity programs that align with
-  IoTeX’s mission of “Connecting the Physical World, Block by Block” as part of
-  IoTeX’s Community Reward Program.
+  通过众筹方式为慈善机构募集资金并不罕见，但IoTeX通过“智能合约”来实现这一目标，并将站在时代风口之上的加密货币导向到为慈善事业做出贡献。
+  结合IoTeX“用区块链接世界”的愿景，在接下来的几个月中，IoTeX将继续甄选慈善机构，推进更多慈善活动，作为社区奖励计划的重要组成部分。
+  
+  IoTeX始终相信并希望与社区一起成长，逐步实现用区块链接世界的美好愿景。
+  这一远大目标的实现离不开强大的团队和社区的大力支持。
+  在慈善活动中，IoTeX希望通过与社区配合，共同推动区块链生态系统的前沿发展。希望社区能够理解我们的初心，一起助力行业发展。
 
 
-  IoTeX believes in growing together with the community and connecting the
-  physical world block by block. It’s a very ambitious goal but it can be
-  achieved with a strong team and supportive community. Together with the
-  community to push the frontier for the development of the blockchain
-  ecosystem, IoTeX truly hopes that the community can understand the original
-  intention and help promote the cause.
-hall-of-fame.title: IoTeX Charity
+hall-of-fame.title: IoTeX 慈善活动
 home.about.inno.0.desc.keep: >-
-  Support millions of nodes with instant finality and low latency,
-  environment-friendly, designed for IoT
-home.about.inno.0.title.keep: Fast Consensus
+  实现即时最终性、低延迟率、对操作环境友好、专为物联网设计，轻松支撑百万量级节点
+home.about.inno.0.title.keep: 快速共识机制
 home.about.inno.1.desc.keep: >-
-  Like Plasma, pull states off the root chain to further boost privacy,
-  scalability and interoperability; Innovated cross-chain transferring of value
-  and data
-home.about.inno.1.title.keep: Blockchain in Blockchains
+  通过职责分离，明确主区块链和分区块链的分层责任来强化整体区块链的隐私保护，并提高可扩展性和互操作性。用创新性技术来支持区块链间的数据传输
+home.about.inno.1.title.keep: 链中链结构
 home.about.inno.2.desc.keep: >-
-  Maximize privacy with innovative crypto schemes like lightweight stealth
-  address and constant size ring signature
-home.about.inno.2.title.keep: Built-in Privacy-preserving Techniques
-home.about.inno.3.desc.keep: 'Decentralized Autonomous Organization for IoT, code is law for the robot world'
-home.about.inno.3.title.keep: Autonomous Device Coordination
+  创新性地利用轻量级数据传输隐身地址和恒定体量环签名的加密模式来最大化提升隐私保护
+home.about.inno.2.title.keep: 内置隐私保护技术
+home.about.inno.3.desc.keep: '以分布式自动化的架构设计来支持IoT设备。自动化设备协调源于代码，忠于代码，执行于代码' 
+home.about.inno.3.title.keep: 自助设备协调架构
 home.about.sol.desc1: >-
-  Despite its rapid evolution, IoT is still far from reaching mass adoption and
-  lacks “killer applications” that would draw new users to the ecosystem due to
-  issues such as low scalability, high operating cost, privacy concerns and lack
-  of functional values.
+  尽管物联网行业发展迅猛，但碍于其极低的可扩展性、高昂的运营成本、隐私安全、缺乏使用价值等问题，广泛普及物联网还有很长的路要走，吸引新用户加入生态系统的杀手级应用也尚未出现。
 home.about.sol.desc2: >-
-  IoTeX is tackling this problem by introducing token economy into IoT spaces as
-  we strongly believe that crypto incentives as well as the community effort are
-  the two key forces to propel innovations in IoT space. In short, IoTeX is the
-  next generation IoT-oriented blockchain platform with strong scalability,
-  privacy, isolatability and developability for incubating new IoT applications
-  and ecosystems.
-home.decentralized-protocol: A Decentralized Network for Internet of Things
+  IoTeX将通过在物联网世界中推广通证经济解决这一问题。我们坚信加密通证激励与社区建设是推动物联网领域创新的两个关键要素。
+  简而言之，IoTeX致力于以轻量级、私密性和易扩展的颠覆式区块链底层技术，构建支持物联网应用的下一代区块链平台。
+home.decentralized-protocol: 去中心化的物联网平台
 home.dustin.desc.keep: >-
-  Ph.D in Data Security at USC. Staff software engineer at Intel. 12 years of
-  expertise in distributed systems, content protection, hardware video
-  acceleration, network video streaming, graphics driver. Cryptography and
-  blockchain enthusiast.
+  南加州大学数据安全博士学位。曾就职于Intel并担任资深软件工程师一职。
+  在分布式系统、内容加密、硬件视频加速、网络视频流、显卡驱动等领域拥有超过12年的专业研究经验。
+  密码学和区块链技术爱好者。
 home.dustin.name.keep: Dustin Xie
-home.dustin.title.keep: Blockchain Engineer
+home.dustin.title.keep: 区块链工程师
 home.fan.desc.keep: >-
-  Previously served as a Founding Partner of Sequoia Capital China, and a
-  Director of DFJ ePlanet Ventures. Ranked by Forbes as one of leading venture
-  capitalists in its annual China's Midas List.
+  曾为红杉中国创始合伙人之一并担任DFJ ePlanet Ventures董事. 
+  《福布斯》杂志将其列为中国年度“Midas”排行榜的领衔风险投资家之一
 home.fan.name.keep: Fan Zhang
 home.fan.title.keep: null
 home.guang.desc.keep: >-
-  IEEE Fellow. Professor in University of Waterloo, Canada. Top Scientist in
-  cryptography and lightweight cryptography, ad hoc network and Radio Frequency
-  Identification (RFID) security.
+  IEEE 研究员。加拿大滑铁卢大学教授。密码学和轻量级密码学、自组织网络和射频识别安全领域顶级科学家
 home.guang.name.keep: Guang Gong
 home.guang.title.keep: null
 home.jack.desc.keep: >-
-  Co-Founding Managing Partner of HCM Capital, Foxconn Technology Group.
-  Co-Founder and Executive Director of Chained Finance Ltd., Founder & Executive
-  Director of FnConn, and Board Director of Abra.
+  富士康旗下投资基金HCM Capital创始合伙人，引领集团区块链和加密货币投资。
+  Chained Finance Ltd.联合创始人兼执行董事。FnConn创始人兼执行董事。Abra董事
 home.jack.name.keep: Jack Lee
 home.jack.title.keep: null
 home.jing.desc.keep: >-
-  Founding partner of Sparkland Capital, focusing on Frontier Tech, lead 40+
-  investments and innovations in blockchain, security and IoT. Board director on
-  numerous companies. Extensive experience in startup, investments and building
-  up ecosystem.
+ 美国前沿科技创业者和天使投资人。Sparkland基金主要成员之一。
+ 领导着超过40项区块链、安全，VR/AR和物联网领域的投资和创新。
+ 在初创公司、投资和生态建立领域有丰富的经验。
 home.jing.name.keep: Jing Sun
-home.jing.title.keep: Co-founder
+home.jing.title.keep: 联合创始人
 home.larry.desc.keep: >-
-  Management consultant at Oliver Wyman, specialized in digital operations. Dual
-  B.S. in Finance & Economics, minor in Visual Arts & Design from MIT.
-  Blockchain and IoT enthusiast.
+  曾就职于奥纬咨询（Oliver Wyman）并担任管理顾问, 精通数字运营。
+  毕业于麻省理工学院，获得金融和经济学双学位，辅修视觉艺术与设计。
+  密码学和区块链技术爱好者。
 home.larry.name.keep: Larry Pang
-home.larry.title.keep: Growth & Community
+home.larry.title.keep: 增长与社区
 home.monika.desc.keep: >-
-  Technology communications specialist with deep expertise in cybersecurity,
-  privacy, networking and emerging technologies.
+  专注于技术类媒体传播，在网络安全、隐私、网络和新兴技术方面拥有丰富专业知识。
 home.monika.name.keep: Monika Hathaway
-home.monika.title.keep: Communication
+home.monika.title.keep: 公众传播
 home.paddy.desc.keep: >-
-  Senior Software Engineer at Microsoft, specialized in distributed systems.
-  Active contributor to open source projects. M.S. Computer Science at Yale
-  University.
+  微软高级软件工程师，专攻分布式系统。
+  开源项目的活跃贡献者。于耶鲁大学获得计算机科学硕士学位
 home.paddy.name.keep: Paddy Kan
-home.paddy.title.keep: Distributed Systems
+home.paddy.title.keep: 分布式系统
 home.powered-by: Powered by a Privacy-Centric Blockchain
 home.qevan.desc.keep: >-
-  Ph.D in Machine Learning and Computer Vision at National University of
-  Singapore. Engineering Manager and Research Scientist at Facebook. Growth
-  Hacker. Startup investor and advisor. 20+ publications / patents.
+  毕业于新加坡国立大学并获得机器学习和机器视觉博士学位。
+  Facebook工程经理和研究科学家。增长黑客。创业投资者和顾问。拥有20+出版物/专利。
 home.qevan.name.keep: Qevan Guo
-home.qevan.title.keep: Co-founder
+home.qevan.title.keep: 联合创始人
 home.raullen.desc.keep: >-
-  Ph.D and Research Scientist in Cryptography at UWaterloo. Head of Crypto R&D
-  at Uber, Security Engineer at Google.  8+ years of experience in cryptography
-  and blockchain.
+  毕业于滑铁卢大学并获得电子计算机专业加密学博士学位与研究科学家称号。拥有超过8年的加密技术和区块链领域的丰富经验。
+  曾作为加密研究与开发部门负责人就职于Uber，担任Google安全研究项目负责人。
 home.raullen.name.keep: Raullen Chai
-home.raullen.title.keep: Co-founder
-home.section.advisors: IoTeX.Advisors
-home.section.arch: IoTeX.Architecture
-home.section.innovations: IoTeX.Innovations
-home.section.investors: IoTeX.Investors
-home.section.partners: IoTeX.StrategicPartners
-home.section.roadmap: IoTeX.Roadmap
-home.section.team: IoTeX.Team
-home.section.teamfrom: IoTeX.Team.Background
-home.section.useceses: IoTeX.UseCases
-home.slogan: Connecting the Physical World Block by Block
+home.raullen.title.keep: 联合创始人
+home.section.advisors: IoTeX.顾问
+home.section.arch: IoTeX.构架
+home.section.innovations: IoTeX.创新
+home.section.investors: IoTeX.投资人
+home.section.partners: IoTeX.战略合作伙伴
+home.section.roadmap: IoTeX.技术路线
+home.section.team: IoTeX.团队
+home.section.teamfrom: IoTeX.团队.背景
+home.section.useceses: IoTeX.案例
+home.slogan: 用区块链接世界
 home.xinxin.desc.keep: >-
-  Ph.D in Cryptography at UWaterloo. Sr. Research Engineer at Bosch Research. 14
-  years of research and industry experience in information security and crypto.
-  40+ publications / patents.
+  Bosch北美研究与技术中心信息安全与隐私团队的高级研究员，定义并开展针对物联网、机器与机器通信系统、云计算，多方计算，数据挖掘，密码货币以和区块链中的安全与隐私问题的创新研究。
+  曾为拿大滑铁卢大学研究员并担任安大略省重大科研项目“移动自组织网络以及嵌入式系统中的隐私与安全”项目经理。
+  加拿大滑铁卢大学电子与计算机工程博士学位。Bosch北美研究与技术中心信息安全与隐私团队的高级研究员。在信息安全与加密方面拥有超过14年研究和行业经验。
+  拥有40+出版物/专利。
 home.xinxin.name.keep: Xinxin Fan
-home.xinxin.title.keep: Head of Cryptography
+home.xinxin.title.keep: 密码学负责人
 home.zhefeng.desc.keep: >-
-  Master in Computer Science at University of California San Diego and Bachelor
-  in Mathematics and Computer Science at University of Wisconsin-Madison.
-  Blockchain technology, machine learning, and Internet of Things enthusiast.
+  专长数学和计算机科学，作为区块链工程师正式加入IoTeX团队。
+  毕业于威斯康星大学麦迪逊分校获得数学与计算机科学学士学位，之后深造于加州大学圣地亚哥分校并获得计算机科学硕士学位。
+  专注于区块链技术，机器学习和人工智能
 home.zhefeng.name.keep: Zhefeng Li
-home.zhefeng.title.keep: Blockchain Engineer
+home.zhefeng.title.keep: 区块链工程师
 stonevan.twitter: >-
-  I just got 100 free points from IoTeX by celebrating their first Testnet
-  Preview release. @iotex_io Come and get yours!
-subscribe.btn: SUBSCRIBE
-subscribe.desc: With our latest progress and events.
-subscribe.title: STAY UPDATED
-testnet-preview.home-title: Testnet Preview (StoneVan) will be released on
-testnet-preview.released-event-title: Our Testnet Preview Has Been Released!
-testnet-preview.released-title: Testnet Preview Has Been Released On
+  我参加了IoTeX首个测试网预览庆典活动，获得了100积分。@iotex_io 快来免费领取你的积分吧！
+subscribe.btn: 订阅
+subscribe.desc: 即时获取最新活动消息和项目进展
+subscribe.title: 与我们保持联系
+testnet-preview.home-title: 测试网预览 (StoneVan) 即将发布
+testnet-preview.released-event-title: 我们的测试网预览已经发布！
+testnet-preview.released-title: 我们的测试网预览已经发布
 testnet.preview.points.claimed: >-
-  You have claimed your points.  Please check with https://t.me/IoTeXBountyBot
-  to see your points. If you don't receive your points, please DM admins on our
-  telegram group with the screenshot of this page.
-testnet.preview.points.notclaimed: There was a problem when you claimed your points.
+  你已成功领取积分，请私信 https://t.me/IoTeXBountyBot 查询你的分数。
+  如果你没有查到积分，请截图页面并私信电报群组管理员。
+testnet.preview.points.notclaimed: 出错了，你无法领取积分。
 topbar.blog: BLOG
 topbar.careers: 职位
 topbar.charity: 慈善
