@@ -104,6 +104,9 @@ home.section.roadmap: IoTeX.技术路线
 home.section.team: IoTeX.团队
 home.section.teamfrom: IoTeX.团队.背景
 home.section.useceses: IoTeX.案例
+home.site.description: >-
+  A Decentralized Network for Internet of Things (IoT), Powered by a Scalable,
+  Private & Extensible Blockchain.
 home.slogan: 用区块链接世界
 home.xinxin.desc.keep: >-
   加拿大滑铁卢大学电子与计算机工程博士学位。Bosch北美研究与技术中心信息安全与隐私团队的高级研究员。在信息安全与加密方面拥有超过14年研究和行业经验。
@@ -120,8 +123,6 @@ subscribe.title: 与我们保持联系
 testnet-preview.home-title: 测试网预览 (StoneVan) 即将发布
 testnet-preview.released-event-title: 我们的测试网预览已经发布！
 testnet-preview.released-title: 我们的测试网预览已经发布
-testnet.preview.points.claimed: '你已成功领取积分，请私信 https://t.me/IoTeXBountyBot 查询你的分数。 如果你没有查到积分，请截图页面并私信电报群组管理员。'
-testnet.preview.points.notclaimed: 出错了，你无法领取积分。
 topbar.blog: BLOG
 topbar.careers: 职位
 topbar.charity: 慈善

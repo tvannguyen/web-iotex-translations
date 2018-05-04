@@ -155,6 +155,9 @@ home.section.roadmap: IoTeX.Roadmap
 home.section.team: IoTeX.Team
 home.section.teamfrom: IoTeX.Team.Background
 home.section.useceses: IoTeX.UseCases
+home.site.description: >-
+  A Decentralized Network for Internet of Things (IoT), Powered by a Scalable,
+  Private & Extensible Blockchain.
 home.slogan: Connecting the Physical World Block by Block
 home.xinxin.desc.keep: >-
   Ph.D in Cryptography at UWaterloo. Sr. Research Engineer at Bosch Research. 14
@@ -177,11 +180,6 @@ subscribe.title: STAY UPDATED
 testnet-preview.home-title: Testnet Preview (StoneVan) will be released on
 testnet-preview.released-event-title: Our Testnet Preview Has Been Released!
 testnet-preview.released-title: Testnet Preview Has Been Released On
-testnet.preview.points.claimed: >-
-  You have claimed your points.  Please check with https://t.me/IoTeXBountyBot
-  to see your points. If you don't receive your points, please DM admins on our
-  telegram group with the screenshot of this page.
-testnet.preview.points.notclaimed: There was a problem when you claimed your points.
 topbar.blog: BLOG
 topbar.careers: CAREERS
 topbar.charity: CHARITY
