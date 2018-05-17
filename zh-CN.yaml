@@ -83,6 +83,10 @@ home.larry.title.keep: 增长与社区
 home.monika.desc.keep: 专注于技术类媒体传播，在网络安全、隐私、网络和新兴技术方面拥有丰富专业知识。
 home.monika.name.keep: Monika Hathaway
 home.monika.title.keep: 公众传播
+home.nick.desc.keep: >-
+  南加州大学计算机硕士，威斯康星大学计算机学士，专注于网站开发，区块链技术和机器学习。
+home.nick.name.keep: Nick Chen
+home.nick.title.keep: 全栈实习生
 home.paddy.desc.keep: 微软高级软件工程师，专攻分布式系统。 开源项目的活跃贡献者。于耶鲁大学获得计算机科学硕士学位
 home.paddy.name.keep: Paddy Kan
 home.paddy.title.keep: 分布式系统
@@ -109,9 +113,9 @@ home.site.description: >-
   Auto-Scalable, Extensible, Private-Centric Blockchain. Connecting the Physical
   World, Block by Block.
 home.slogan: 用区块链接世界
-home.vincent.desc.keep: Vincent Vuong
+home.vincent.desc.keep: 加拿大滑铁卢大学计算机科学学士。专注于网络安全和区块链技术。
 home.vincent.name.keep: Vincent Vuong
-home.vincent.title.keep: Software Engineer Intern
+home.vincent.title.keep: 软件工程实习生
 home.xinxin.desc.keep: >-
   加拿大滑铁卢大学电子与计算机工程博士学位。Bosch北美研究与技术中心信息安全与隐私团队的高级研究员。在信息安全与加密方面拥有超过14年研究和行业经验。
   拥有40+出版物/专利
