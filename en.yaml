@@ -199,3 +199,10 @@ topbar.home: HOME
 topbar.white-paper: WHITE PAPER
 whitepaper.button.next: NEXT
 whitepaper.button.previous: PREVIOUS
+next: next
+phone_number: Phone Number
+enter_phone_number: Enter Phone Number
+telegram_account_id: Telegram
+wechat_account_id: WeChat
+hash: HashID
+phone: Phone
