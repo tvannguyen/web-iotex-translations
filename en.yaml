@@ -227,7 +227,6 @@ phone_number: Phone Number
 enter_phone_number: Enter Phone Number
 telegram_account_id: Telegram
 wechat_account_id: WeChat
-hash: HashID
 phone: Phone
 receive_reward_points: RECEIVE
 send_reward_points: SEND
