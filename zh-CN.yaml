@@ -165,7 +165,6 @@ phone_number: 手机号码
 enter_phone_number: 请输入手机号
 telegram_account_id: Telegram账号
 wechat_account_id: 微信号
-hash: HashID
 phone: 手机号码
 receive_reward_points: 接受奖励积分
 send_reward_points: 赠送奖励积分
