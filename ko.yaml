@@ -194,6 +194,27 @@ auth.expired_v_code: Verification code is expired
 auth.verification_code: Verification Code
 auth.enter_verification_code: >-
   Please enter the 6-digit verification code sent to your phone
-  <strong>%s</strong>.
+  <strong>%s</strong>
 geetest.loading_captcha: Loading captcha...
 geetest.incorrect_captcha: Please verify you are not a robot.
+next: next
+phone_number: Phone Number
+enter_phone_number: Enter Phone Number
+telegram_account_id: Telegram
+wechat_account_id: WeChat
+phone: Phone
+receive_reward_points: RECEIVE
+send_reward_points: SEND
+redeem_reward_points: REDEEM
+reward_points_history: HISTORY
+title_receive_points: ENTER CODE TO CLAIM MORE POINTS
+bar_receive_points: CLAIM
+bar_success_receive_points: CLAIM
+msg_receive_points: msg_receive_points
+title_send_points: ENTER THE AMOUNT YOU WANT TO SEND
+bar_send_points: GENERATE CODE
+bar_success_send_points: GENERATE
+title_redeem_points: ENTER THE AMOUNT YOU WANT TO REDEEM TO IOTX
+bar_redeem_points: SUBMIT APPLICATION
+barSuccessMsg: SUBMIT APPLICATION
+eth_address: ETH Address

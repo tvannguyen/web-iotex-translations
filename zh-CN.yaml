@@ -141,8 +141,8 @@ topbar.charity: 慈善
 topbar.faq: FAQ
 topbar.home: 首页
 topbar.white-paper: 白皮书
-whitepaper.button.next: NEXT
-whitepaper.button.previous: PREVIOUS
+whitepaper.button.next: 下一页
+whitepaper.button.previous: 上一页
 auth.telegram.invalid_hash: 无法使用 Telegram 登陆，请联系我们的社区管理员。
 auth.enter_phone_number: 输入手机号码
 auth.phone_number: 手机号码
@@ -160,3 +160,25 @@ auth.enter_verification_code: >-
   请输入发送到<strong>%s</strong>的六位短信验证码
 geetest.loading_captcha: 正在载入人机验证...
 geetest.incorrect_captcha: 请证明你不是机器人
+next: next
+phone_number: 手机号码
+enter_phone_number: 请输入手机号
+telegram_account_id: Telegram账号
+wechat_account_id: 微信号
+phone: 手机号码
+receive_reward_points: 接受奖励积分
+send_reward_points: 赠送奖励积分
+redeem_reward_points: 兑换奖励积分
+reward_points_history: 积分历史记录
+title_receive_points: 请输入兑换码兑换积分
+bar_receive_points: 兑换
+bar_success_receive_points: 兑换
+msg_receive_points: msg_receive_points
+title_send_points: 请输入您想赠送的数额
+bar_send_points: 生成代码
+bar_success_send_points: 已生成
+title_redeem_points: 请输入您想兑换到IOTX币的数额
+bar_redeem_points: 提交申请
+barSuccessMsg: 已提交
+eth_address: ETH地址
+
