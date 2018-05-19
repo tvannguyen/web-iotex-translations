@@ -199,6 +199,24 @@ topbar.home: HOME
 topbar.white-paper: WHITE PAPER
 whitepaper.button.next: NEXT
 whitepaper.button.previous: PREVIOUS
+auth.telegram.invalid_hash: Cannot login with Telegram. Please contact our community manager.
+auth.enter_phone_number: Enter phone number
+auth.phone_number: Phone Number
+auth.next: Next
+auth.login: Login
+auth.or_continue_with_phone_number: Or Continue with Phone Number
+auth.invalid_request: Input is invalid
+auth.invalid_phone_number: Phone number is invalid
+auth.cannot_send_sms: Cannot send SMS to this phone number
+auth.unsupported_country_code: Country code is unsupported
+auth.invalid_v_code: Verification code is invalid
+auth.expired_v_code: Verification code is expired
+auth.verification_code: Verification Code
+auth.enter_verification_code: >-
+  Please enter the 6-digit verification code sent to your phone
+  <strong>%s</strong>
+geetest.loading_captcha: Loading captcha...
+geetest.incorrect_captcha: Please verify you are not a robot.
 next: next
 phone_number: Phone Number
 enter_phone_number: Enter Phone Number

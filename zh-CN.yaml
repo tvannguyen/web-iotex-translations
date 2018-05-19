@@ -139,6 +139,23 @@ topbar.home: 首页
 topbar.white-paper: 白皮书
 whitepaper.button.next: 下一页
 whitepaper.button.previous: 上一页
+auth.telegram.invalid_hash: 无法使用 Telegram 登陆，请联系我们的社区管理员。
+auth.enter_phone_number: 输入手机号码
+auth.phone_number: 手机号码
+auth.next: 下一步
+auth.login: 登录
+auth.or_continue_with_phone_number: 或者使用手机号码
+auth.invalid_request: 无效输入
+auth.invalid_phone_number: 手机号码错误
+auth.cannot_send_sms: 无法发送短信到此手机号码
+auth.unsupported_country_code: 暂不支持此国际电话区号
+auth.invalid_v_code: 短信验证码错误
+auth.expired_v_code: 短信验证码已过期
+auth.verification_code: 验证码
+auth.enter_verification_code: >-
+  请输入发送到<strong>%s</strong>的六位短信验证码
+geetest.loading_captcha: 正在载入人机验证...
+geetest.incorrect_captcha: 请证明你不是机器人
 next: next
 phone_number: 手机号码
 enter_phone_number: 请输入手机号
