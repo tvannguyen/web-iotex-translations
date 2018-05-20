@@ -224,23 +224,23 @@ auth.enter_verification_code: >-
 geetest.loading_captcha: Loading captcha...
 geetest.incorrect_captcha: Please verify you are not a robot.
 next: next
-phone_number: Phone Number
-enter_phone_number: Enter Phone Number
-telegram_account_id: Telegram
-wechat_account_id: WeChat
-phone: Phone
-receive_reward_points: RECEIVE
-send_reward_points: SEND
-redeem_reward_points: REDEEM
-reward_points_history: HISTORY
-title_receive_points: ENTER CODE TO CLAIM MORE POINTS
-bar_receive_points: CLAIM
-bar_success_receive_points: CLAIM
-msg_receive_points: msg_receive_points
-title_send_points: ENTER THE AMOUNT YOU WANT TO SEND
-bar_send_points: GENERATE CODE
-bar_success_send_points: GENERATE
-title_redeem_points: ENTER THE AMOUNT YOU WANT TO REDEEM TO IOTX
-bar_redeem_points: SUBMIT APPLICATION
-barSuccessMsg: SUBMIT APPLICATION
-eth_address: ETH Address
+profile.phone_number: Phone Number
+profile.profile.enter_phone_number: Enter Phone Number
+profile.telegram_account_id: Telegram
+profile.wechat_account_id: WeChat
+profile.phone: Phone
+profile.receive_reward_points: RECEIVE
+profile.send_reward_points: SEND
+profile.redeem_reward_points: REDEEM
+profile.reward_points_history: HISTORY
+profile.title_receive_points: ENTER CODE TO CLAIM MORE POINTS
+profile.bar_receive_points: CLAIM
+profile.bar_success_receive_points: CLAIM
+profile.msg_receive_points: msg_receive_points
+profile.title_send_points: ENTER THE AMOUNT YOU WANT TO SEND
+profile.bar_send_points: GENERATE CODE
+profile.bar_success_send_points: GENERATE
+profile.title_redeem_points: ENTER THE AMOUNT YOU WANT TO REDEEM TO IOTX
+profile.bar_redeem_points: SUBMIT APPLICATION
+profile.barSuccessMsg: SUBMIT APPLICATION
+profile.eth_address: ETH Address
