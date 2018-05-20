@@ -12,6 +12,7 @@ charity.tweet.summary.description: >-
 charity.tweet.summary.image: >-
   https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
 charity.tweet.summary.title: You are on the IoTeX Honor Board!
+doraHacks: DoraHacks
 claim.btn: CLAIM YOUR POINTS
 contact.btn: 문의처
 contact.desc: IoTeX 전문가들은 언제든지 이메일(support@iotex.io)을 통해 귀하의 질문에 답변해 드리겠습니다

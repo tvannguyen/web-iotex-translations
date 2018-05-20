@@ -12,6 +12,7 @@ charity.tweet.summary.description: >-
 charity.tweet.summary.image: >-
   https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
 charity.tweet.summary.title: You are on the IoTeX Honor Board!
+doraHacks: DoraHacks
 claim.btn: CLAIM YOUR POINTS
 contact.btn: CONTACT US
 contact.desc: IoTeX experts are ready to answer your questions via support@iotex.io
