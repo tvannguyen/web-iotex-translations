@@ -180,24 +180,29 @@ topbar.home: 홈
 topbar.white-paper: 백서
 whitepaper.button.next: NEXT
 whitepaper.button.previous: PREVIOUS
-auth.telegram.invalid_hash: Cannot login with Telegram. Please contact our community manager.
-auth.enter_phone_number: Enter phone number
-auth.phone_number: Phone Number
-auth.next: Next
-auth.login: Login
-auth.or_continue_with_phone_number: Or Continue with Phone Number
-auth.invalid_request: Input is invalid
-auth.invalid_phone_number: Phone number is invalid
+auth.cannot_get_user: Cannot get or create the user
 auth.cannot_send_sms: Cannot send SMS to this phone number
-auth.unsupported_country_code: Country code is unsupported
-auth.invalid_v_code: Verification code is invalid
+auth.enter_phone_number: Enter phone number
+auth.enter_verification_code: Please enter the 6-digit verification code sent to your phone <strong>%s</strong>
 auth.expired_v_code: Verification code is expired
+auth.invalid_phone_number: Phone number is invalid
+auth.invalid_request: Input is invalid
+auth.invalid_telegram_hash: Cannot login with Telegram, please contact our community manager
+auth.invalid_v_code: Verification code is invalid
+auth.login: Login
+auth.login_with_mobile: Login with Mobile Number
+auth.login_with_telegram: Login with Telegram
+auth.next: Next
+auth.phone_number: Phone Number
+auth.tab.mobile: Mobile
+auth.tab.telegram: Telegram
+auth.unsupported_country_code: Country code is unsupported
 auth.verification_code: Verification Code
-auth.enter_verification_code: >-
-  Please enter the 6-digit verification code sent to your phone
-  <strong>%s</strong>
+geetest.incorrect_captcha: Please verify you are not a robot
 geetest.loading_captcha: Loading captcha...
-geetest.incorrect_captcha: Please verify you are not a robot.
+geetest.unknown_error: Geetest returns unknown error. Please try again later or contact our community manager
+rate_limit: Too many requests, please try again later
+eth_address: eth_address
 next: next
 phone_number: Phone Number
 enter_phone_number: Enter Phone Number

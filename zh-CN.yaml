@@ -144,23 +144,29 @@ topbar.home: 首页
 topbar.white-paper: 白皮书
 whitepaper.button.next: 下一页
 whitepaper.button.previous: 上一页
-auth.telegram.invalid_hash: 无法使用 Telegram 登陆，请联系我们的社区管理员。
-auth.enter_phone_number: 输入手机号码
-auth.phone_number: 手机号码
-auth.next: 下一步
-auth.login: 登录
-auth.or_continue_with_phone_number: 或者使用手机号码
-auth.invalid_request: 无效输入
-auth.invalid_phone_number: 手机号码错误
+auth.cannot_get_user: 无法获取或创建用户
 auth.cannot_send_sms: 无法发送短信到此手机号码
-auth.unsupported_country_code: 暂不支持此国际电话区号
-auth.invalid_v_code: 短信验证码错误
+auth.enter_phone_number: 输入手机号码
+auth.enter_verification_code: 请输入发送到<strong>%s</strong>的六位短信验证码
 auth.expired_v_code: 短信验证码已过期
+auth.invalid_phone_number: 手机号码错误
+auth.invalid_request: 无效输入
+auth.invalid_telegram_hash: Telegram 登陆出错，请联系我们的社区经理
+auth.invalid_v_code: 短信验证码错误
+auth.login: 登录
+auth.login_with_mobile: 手机号登录
+auth.login_with_telegram: Telegram 登录
+auth.next: 下一步
+auth.phone_number: 手机号码
+auth.tab.mobile: 手机
+auth.tab.telegram: Telegram
+auth.unsupported_country_code: 暂不支持此国际电话区号
 auth.verification_code: 验证码
-auth.enter_verification_code: >-
-  请输入发送到<strong>%s</strong>的六位短信验证码
-geetest.loading_captcha: 正在载入人机验证...
 geetest.incorrect_captcha: 请证明你不是机器人
+geetest.loading_captcha: 正在载入人机验证...
+geetest.unknown_error: 极验未知错误，请稍后再试或联系我们的社区经理
+rate_limit: 提交次数过多，请稍后再试
+eth_address: ETH地址
 next: next
 phone_number: 手机号码
 enter_phone_number: 请输入手机号
@@ -181,5 +187,3 @@ bar_success_send_points: 已生成
 title_redeem_points: 请输入您想兑换到IOTX币的数额
 bar_redeem_points: 提交申请
 barSuccessMsg: 已提交
-eth_address: ETH地址
-
