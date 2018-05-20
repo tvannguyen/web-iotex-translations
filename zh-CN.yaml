@@ -10,6 +10,7 @@ charity.tweet.summary.description: 感谢你为区块链行业做出的贡献！
 charity.tweet.summary.image: >-
   https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
 charity.tweet.summary.title: 你的善举已经公示在IoTeX荣誉墙上！
+doraHacks: DoraHacks
 claim.btn: 兑换你的积分
 contact.btn: 联系我们
 contact.desc: 如有任何问题，请发邮件至support@iotex.io，IoTeX专家团队将为您解答
